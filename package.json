@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohdahsanrazakhan/emoji-code-converter.git"
+    "url": "(https://github.com/mohdahsanrazakhan/emoji-code-converter.git)"
   },
   "keywords": [
     "emoji-code-converter",
