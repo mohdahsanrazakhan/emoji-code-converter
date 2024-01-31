@@ -1,0 +1,27 @@
+{
+  "name": "emoji-code-converter",
+  "version": "1.0.0",
+  "description": "The Emoji Code Converter npm package provides a convenient utility for converting emoji codes to their corresponding Unicode characters. With a simple function call, developers can seamlessly transform emoji codes within text strings into expressive Unicode emojis, enriching the user experience across various applications and platforms.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohdahsanrazakhan/emoji-code-converter.git"
+  },
+  "keywords": [
+    "emoji-code-converter",
+    "emoji",
+    "unicode",
+    "converter",
+    "utility"
+  ],
+  "author": "md_mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohdahsanrazakhan/emoji-code-converter/issues"
+  },
+  "homepage": "https://github.com/mohdahsanrazakhan/emoji-code-converter#readme"
+}
